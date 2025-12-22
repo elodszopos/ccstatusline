@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "lines": [
+    [
+      {
+        "id": "1",
+        "type": "model",
+        "color": "cyan"
+      },
+      {
+        "id": "2",
+        "type": "separator"
+      },
+      {
+        "id": "3",
+        "type": "context-length",
+        "color": "brightBlack"
+      },
+      {
+        "id": "4",
+        "type": "separator"
+      },
+      {
+        "id": "5",
+        "type": "tokens-total",
+        "color": "magenta"
+      },
+      {
+        "id": "6",
+        "type": "separator"
+      },
+      {
+        "id": "7",
+        "type": "current-working-dir",
+        "color": "yellow"
+      },
+      {
+        "id": "f61110a5-e9bc-43de-b25f-8498d9c26d21",
+        "type": "separator"
+      },
+      {
+        "id": "6fcd6292-10f5-42bc-83bd-e1040e4a4183",
+        "type": "tokens-input"
+      },
+      {
+        "id": "fdcf9182-6ed9-40aa-be9a-101f987c3bb4",
+        "type": "separator"
+      },
+      {
+        "id": "a7fb612f-585c-4b81-99c0-a209476278fd",
+        "type": "tokens-output"
+      },
+      {
+        "id": "ac8f4087-3729-46df-8d9e-b5ccfec22dd0",
+        "type": "separator"
+      },
+      {
+        "id": "dd00437c-357b-492b-98c9-bbdeff6168a7",
+        "type": "tokens-cached"
+      }
+    ],
+    [
+      {
+        "id": "c9763c17-278d-453d-8049-b20b82c88354",
+        "type": "block-timer"
+      },
+      {
+        "id": "bffd4d2c-88c3-4447-a038-4fd6b9e1ef13",
+        "type": "separator"
+      },
+      {
+        "id": "f49f3226-dfa2-44c5-a7fd-7a5a6601a8e1",
+        "type": "session-cost"
+      }
+    ],
+    []
+  ],
+  "flexMode": "full-minus-40",
+  "compactThreshold": 60,
+  "colorLevel": 2,
+  "inheritSeparatorColors": false,
+  "globalBold": false,
+  "powerline": {
+    "enabled": false,
+    "separators": [
+      ""
+    ],
+    "separatorInvertBackground": [
+      false
+    ],
+    "startCaps": [],
+    "endCaps": [],
+    "autoAlign": false
+  }
+}
