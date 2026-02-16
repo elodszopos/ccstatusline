@@ -30,33 +30,16 @@
         "type": "separator"
       },
       {
-        "id": "7",
-        "type": "current-working-dir",
-        "color": "yellow"
-      },
-      {
-        "id": "f61110a5-e9bc-43de-b25f-8498d9c26d21",
-        "type": "separator"
-      },
-      {
-        "id": "6fcd6292-10f5-42bc-83bd-e1040e4a4183",
+        "id": "fc12a35f-38a1-467d-b476-4c5969c725a0",
         "type": "tokens-input"
       },
       {
-        "id": "fdcf9182-6ed9-40aa-be9a-101f987c3bb4",
+        "id": "6e4eaf46-6bd9-450c-b985-6f660404c0d7",
         "type": "separator"
       },
       {
-        "id": "a7fb612f-585c-4b81-99c0-a209476278fd",
+        "id": "38dba460-c2ed-4fb1-ba7f-b668ac671ab5",
         "type": "tokens-output"
-      },
-      {
-        "id": "ac8f4087-3729-46df-8d9e-b5ccfec22dd0",
-        "type": "separator"
-      },
-      {
-        "id": "dd00437c-357b-492b-98c9-bbdeff6168a7",
-        "type": "tokens-cached"
       }
     ],
     [
@@ -70,10 +53,47 @@
       },
       {
         "id": "f49f3226-dfa2-44c5-a7fd-7a5a6601a8e1",
-        "type": "session-cost"
+        "type": "context-percentage"
+      },
+      {
+        "id": "b9a1af23-66a4-43df-9ad2-4ef725945c34",
+        "type": "separator"
+      },
+      {
+        "id": "3521befd-4ffc-467a-b91e-36b5ea5f8dcd",
+        "type": "context-percentage-usable"
+      },
+      {
+        "id": "94057a60-f55c-42a1-bc1b-91ee3a048122",
+        "type": "separator"
+      },
+      {
+        "id": "9feeed3c-933c-4b05-b787-1b4669c6c457",
+        "type": "git-branch"
+      },
+      {
+        "id": "cded2355-30f4-45a7-b98b-0e06b1c7a31c",
+        "type": "separator"
+      },
+      {
+        "id": "4778b891-0972-467d-9e70-4975d5eb3615",
+        "type": "claude-session-id"
       }
     ],
-    []
+    [
+      {
+        "id": "bea1f358-ebd4-48fb-90ce-2443714cd606",
+        "type": "current-working-dir"
+      },
+      {
+        "id": "34a6b08e-da80-424e-8085-48be0d76c4fd",
+        "type": "separator"
+      },
+      {
+        "id": "30de6101-6a34-40f5-8d33-c654ae60c009",
+        "type": "git-worktree"
+      }
+    ]
   ],
   "flexMode": "full-minus-40",
   "compactThreshold": 60,
